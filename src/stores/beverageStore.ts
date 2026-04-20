@@ -234,5 +234,3 @@ export const useBeverageStore = defineStore("BeverageStore", {
     },
   },
 });
-
-export type { BaseBeverageType, CreamerType, SyrupType, BeverageType };
